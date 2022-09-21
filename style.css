@@ -102,10 +102,10 @@ body {
   background-size: 100%;
 }
 .contacts__telegr span {
-  background-image: url('/img/icons/telegram.svg');
+  background-image: url('../img/icons/telegram.svg');
 }
 .contacts__whatsapp span {
-  background-image: url('/img/icons/whatsapp.svg');
+  background-image: url('../img/icons/whatsapp.svg');
 }
 
 /* header-bottom */
