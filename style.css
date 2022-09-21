@@ -91,7 +91,7 @@ body {
   border-left: none;
   transform: rotate(45deg);
 }
-.contacts__telegr span,
+.contacts__telegr div,
 .contacts__whatsapp span {
   display: inline-block;
   width: 20px;
@@ -101,11 +101,11 @@ body {
   background-repeat: no-repeat;
   background-size: 100%;
 }
-.contacts__telegr span {
-  background-image: url('../img/icons/telegram.svg');
+.contacts__telegr div {
+  background-image: url('img/icons/telegram.svg');
 }
 .contacts__whatsapp span {
-  background-image: url('/img/icons/whatsapp.svg');
+  background-image: url('img/icons/whatsapp.svg');
 }
 
 /* header-bottom */
